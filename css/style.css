@@ -1,0 +1,193 @@
+body{
+  margin: 0;
+  background-color: white;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 1.5em;
+  width: 100%;
+}
+h1{
+  font-size: 5.625rem;
+  margin-top: 50px;
+padding-top:  150px;
+margin-bottom: 0;
+font-family: 'Sacramento', cursive;
+}
+p{
+  font-family: 'Montserrat Alternates', sans-serif;
+margin-top: 0;
+}
+h2{
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #11999E;
+}
+h3{
+  color: #11999E;
+font-family: 'Chilanka', cursive;
+margin: 0;
+font-size: 30px;
+}
+
+.ult{
+  color: #66BFBF;
+  text-decoration:underline;
+
+}
+.top{
+  background-color: #ecfcff;
+  text-align: center;
+
+
+}
+
+.cone{
+  position: absolute;
+  left: 100px;
+  top: 300px;
+
+}
+.ctwo{
+  position: absolute;
+  right: 100px;
+  top: 90px;
+
+}
+
+.pmn{
+  display: block;
+  width: 300px;
+  height: auto;
+  position: absolute;
+  top: 600px;
+  left: 350px;
+}
+.middle{
+  background-color: white;
+
+}
+.bottom{
+
+background-color: white;
+
+}
+.hfirst{
+  color: #66BFBF;
+}
+.hsecond{
+  color: #66BFBF;
+  width: 300px;
+  position: absolute;
+  top: 500px;
+  left: 350px;
+}
+.mypic{
+  width: 13.75rem;
+  height: auto;
+  border-radius: 50%;
+}
+.profilepic{
+  margin-top: 70px;
+display: inline-block;
+margin-bottom: 0;
+}
+.profileinfo{
+display: inline-block;
+  width: 500px;
+  height: auto;
+}
+.profile{
+  margin: 0;
+}
+.infohi{
+  color: #11999E;
+}
+hr{
+  border-color: grey;
+  border-style:  dotted none none;
+  border-width: 5px;
+  width:  5%;
+}
+.onepf{
+
+  font-weight: normal;
+}
+a{
+  color: #11999E;
+}
+a:link{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+.footer-link{
+  padding: 0 40px 0;
+
+}
+.bottom{
+  margin-bottom: 20px;
+}
+.lastn{
+  background-color: white;
+}
+.contact-me{
+  padding-bottom: 15px;
+}
+.computer{
+  border-radius: 50%;
+  width: 12.75rem;
+  height: auto;
+}
+.computer:hover{
+  width: 13.75rem;
+  height: auto;
+}
+.comppic{
+  position: relative;
+  right: 50px;
+  display: inline-block;
+}
+.skill-row{
+    text-align: left;
+  width: 500px;
+  height: auto;
+  display: inline-block;
+}
+.chillie{
+border-radius: 50%;
+  width: 268px;
+  height: 251px;
+  position: relative;
+  left: 300px;
+}
+.chillie:hover{
+  width: 280px;
+  height: 265px;
+}
+.skill-rowc{
+    text-align: right;
+  position: absolute;
+  left: 100px;
+  display: inline-block;
+  width: 500px;
+  height: auto;
+}
+.thome{
+  font-size: 0.5em;
+  position: relative;
+  left: 300px;
+  top: 40px;
+}
+.mypic:hover{
+
+  width: 250px;
+  height: auto;
+
+}
+.contact-me{
+
+  position: relative;
+  left: 300px;
+  width: 400px;
+  height: auto;
+}
